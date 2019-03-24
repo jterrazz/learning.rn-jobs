@@ -1,0 +1,9 @@
+- React file structure
+- Facebook authentication
+- Redux + redux thunk
+- Reducers
+- React navigation
+- Async await
+- API calls
+- ES6 javascript
+- offline persistance
